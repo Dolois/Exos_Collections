@@ -23,8 +23,6 @@ public class Exo_ArrayListClear
 		// Vider une ArrayList 
 		al.clear();
 		
-		System.out.println("ArrayList avant : " + al);
-		
-		
+		System.out.println("ArrayList après : " + al);
 	}
 }

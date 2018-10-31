@@ -27,6 +27,6 @@ public class Exo_ArrayListClone
 		al2 = (ArrayList) al1.clone();
 		
 		System.out.println("ArrayList n° 1 avant : " + al1);
-		System.out.println("ArrayList n° 1 avant : " + al2);
+		System.out.println("ArrayList n° 2 avant : " + al2);
 	}
 }

@@ -23,7 +23,7 @@ public class Exo_ArrayListShuffle
 		
 		System.out.println("ArrayList avant : " + al);
 		
-		// Melanger une ArrayList
+		// Mélanger l'ArrayList al
 		Collections.shuffle(al);
 		
 		System.out.println("ArrayList après : " + al);
