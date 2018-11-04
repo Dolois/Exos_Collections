@@ -37,3 +37,19 @@
   9. Ecrire un programme Java pour comparer deux HashSets.
  10. Ecrire un programme Java pour comparer deux HashSets et conserver les éléments identiques dans les deux HashSets.
  11. Ecrire un programme Java pour supprimer tous les éléments d'un HashSet.
+ 
+#### TreeSet
+  1. Ecrire un programme Java pour créer un nouvel TreeSet, ajoutez des couleurs (chaîne) et imprimez-les. 
+  2. Ecrire un programme Java pour parcourir tous les éléments d'un TreeSet.
+  3. Ecrire un programme Java pour ajouter tous les éléments d'un TreeSet spécifié à un autre.
+  4. Ecrire un programme Java pour créer une vue inverse des éléments contenus dans un TreeSet donné.
+  5. Ecrire un programme Java pour obtenir les premier et dernier éléments d'un TreeSet
+  6. Ecrire un programme Java pour cloner un TreeSet en un autre.
+  7. Ecrire un programme Java pour obtenir le nombre d'éléments d'un TreeSet.
+  8. Ecrire un programme Java pour comparer deux TreeSets.
+  9. Ecrire un programme Java pour trouver les nombres inférieurs à 7 dans un TreeSet.
+ 10. Ecrire un programme Java pour obtenir l’élément dans un TreeSet supérieur ou égal à l’élément donné.
+ 11. Ecrire un programme Java pour obtenir l’élément dans un TreeSet inférieur ou égal à l’élément donné.
+ 12. Ecrire un programme Java pour obtenir l’élément dans un TreeSet strictement supérieur ou égal à l’élément donné.
+ 13. Ecrire un programme Java pour obtenir un élément dans un TreeSet strictement inférieur à l’élément donné.
+
