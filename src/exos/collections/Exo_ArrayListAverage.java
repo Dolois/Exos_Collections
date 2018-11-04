@@ -38,6 +38,6 @@ public class Exo_ArrayListAverage
 				System.out.println("Valeur de l'ArrayList superieur à la moyenne : " + moyenne + " est " + num);
 			}
 		}
-		System.out.println("Nombre d'élément(s) supérieur(s) a la moyenne : " + nombre);
+		System.out.println("Nombre d'Ã©lÃ©ment(s) supÃ©rieur(s) a la moyenne : " + nombre);
 	}
 }
